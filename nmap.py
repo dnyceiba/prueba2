@@ -1,3 +1,6 @@
+contraseña= Admin123
+Password=1234567890
+token=fdsfuf9d8fdfsd8fdj9f8dj8fsdf98dsjf8
 >>> import nmap
 >>> nm = nmap.PortScanner()
 >>> nm.scan('127.0.0.1', '22-443')
