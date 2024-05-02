@@ -1,6 +1,9 @@
 contraseña= Admin123
 Password=1234567890
 token=fdsfuf9d8fdfsd8fdj9f8dj8fsdf98dsjf8
+aws_access_key_id = 'AKSISKFDJFDFKDJFFJDHFJDHFDJ'
+aws_secret_access_key = 'mFrlskkdkjnjdfbudd8ddd89987df8d7fdd/AK'
+region_name = 'us-west-2'
 >>> import nmap
 >>> nm = nmap.PortScanner()
 >>> nm.scan('127.0.0.1', '22-443')
